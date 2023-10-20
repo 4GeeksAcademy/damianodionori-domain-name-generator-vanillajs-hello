@@ -10,7 +10,6 @@ let adjective = ["black", "brown", "yellow", "red"];
 let noun = ["cat", "kangaroo", "cow", "turtle"];
 let extension = [".it", ".com", ".eu", ".fr", ".de", ".es"];
 let domainNamesArray = [];
-let checker, extLen;
 
 for (let i = 0; i < pronoun.length; i++) {
   // Creating nested arrays
